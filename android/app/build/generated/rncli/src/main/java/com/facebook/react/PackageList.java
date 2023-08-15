@@ -21,6 +21,8 @@ import org.reactnative.maskedview.RNCMaskedViewPackage;
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
 // react-native-linear-gradient
 import com.BV.LinearGradient.LinearGradientPackage;
+// react-native-razorpay
+import com.razorpay.rn.RazorpayPackage;
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-safe-area-context
@@ -83,6 +85,7 @@ public class PackageList {
       new RNCMaskedViewPackage(),
       new RNGestureHandlerPackage(),
       new LinearGradientPackage(),
+      new RazorpayPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),

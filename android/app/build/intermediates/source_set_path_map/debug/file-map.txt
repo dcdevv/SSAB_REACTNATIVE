@@ -1,49 +1,56 @@
-com.santsevaaudiobook.app-jetified-flipper-0.125.0-0 C:\Users\sachi\.gradle\caches\transforms-3\03f04a3f11198ce3b7c6cedb9b41266b\transformed\jetified-flipper-0.125.0\res
-com.santsevaaudiobook.app-core-1.9.0-1 C:\Users\sachi\.gradle\caches\transforms-3\0442dcddf7c8962f91c947e4fa892631\transformed\core-1.9.0\res
-com.santsevaaudiobook.app-jetified-react-native-0.70.6-debug-2 C:\Users\sachi\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\res
-com.santsevaaudiobook.app-lifecycle-viewmodel-2.3.1-3 C:\Users\sachi\.gradle\caches\transforms-3\0bbaa5972f900275fec64cf526ac0bea\transformed\lifecycle-viewmodel-2.3.1\res
-com.santsevaaudiobook.app-jetified-coil-base-1.4.0-4 C:\Users\sachi\.gradle\caches\transforms-3\151dc78c2bbc9cfa3255423cfb3a6dc5\transformed\jetified-coil-base-1.4.0\res
-com.santsevaaudiobook.app-appcompat-1.4.1-5 C:\Users\sachi\.gradle\caches\transforms-3\1b40e4574e76bff5831ef4bf4270480d\transformed\appcompat-1.4.1\res
-com.santsevaaudiobook.app-jetified-viewpager2-1.0.0-6 C:\Users\sachi\.gradle\caches\transforms-3\237960ca1607edccd2d98c15f52b2dce\transformed\jetified-viewpager2-1.0.0\res
-com.santsevaaudiobook.app-jetified-appcompat-resources-1.4.1-7 C:\Users\sachi\.gradle\caches\transforms-3\25ca79b7ef1a689e48a9ba2099d7ac89\transformed\jetified-appcompat-resources-1.4.1\res
-com.santsevaaudiobook.app-recyclerview-1.2.1-8 C:\Users\sachi\.gradle\caches\transforms-3\3905dd67f24c3daa23308bd3bda88fc5\transformed\recyclerview-1.2.1\res
-com.santsevaaudiobook.app-cardview-1.0.0-9 C:\Users\sachi\.gradle\caches\transforms-3\3cb37a6faf29ddf73604c194d6dae8fd\transformed\cardview-1.0.0\res
-com.santsevaaudiobook.app-jetified-startup-runtime-1.0.0-10 C:\Users\sachi\.gradle\caches\transforms-3\3e0d478508575b75c79938eb5fb0fb04\transformed\jetified-startup-runtime-1.0.0\res
-com.santsevaaudiobook.app-jetified-extension-mediasession-2.18.1-11 C:\Users\sachi\.gradle\caches\transforms-3\3f0c4e68b1579e98b304fee1f3f6869e\transformed\jetified-extension-mediasession-2.18.1\res
-com.santsevaaudiobook.app-coordinatorlayout-1.1.0-12 C:\Users\sachi\.gradle\caches\transforms-3\499913aa779d5677f84de1b3821854aa\transformed\coordinatorlayout-1.1.0\res
-com.santsevaaudiobook.app-lifecycle-runtime-2.4.0-13 C:\Users\sachi\.gradle\caches\transforms-3\4e5f2ec05243774aa7a6d3ac597ca78a\transformed\lifecycle-runtime-2.4.0\res
-com.santsevaaudiobook.app-jetified-core-ktx-1.9.0-14 C:\Users\sachi\.gradle\caches\transforms-3\5012b0aebfa76edf44761e0e1d6795fe\transformed\jetified-core-ktx-1.9.0\res
-com.santsevaaudiobook.app-jetified-emoji2-views-helper-1.0.0-15 C:\Users\sachi\.gradle\caches\transforms-3\649b06ba711978c865b75aec65373f65\transformed\jetified-emoji2-views-helper-1.0.0\res
-com.santsevaaudiobook.app-jetified-exoplayer-core-2.18.1-16 C:\Users\sachi\.gradle\caches\transforms-3\6e6040b0110196b50016d783ece7421c\transformed\jetified-exoplayer-core-2.18.1\res
-com.santsevaaudiobook.app-localbroadcastmanager-1.1.0-17 C:\Users\sachi\.gradle\caches\transforms-3\739ad2421ee12fe2644bb7649fd9cc90\transformed\localbroadcastmanager-1.1.0\res
-com.santsevaaudiobook.app-jetified-exoplayer-ui-2.18.1-18 C:\Users\sachi\.gradle\caches\transforms-3\76a81d27f00e989778175dd53293ca77\transformed\jetified-exoplayer-ui-2.18.1\res
-com.santsevaaudiobook.app-media-1.6.0-19 C:\Users\sachi\.gradle\caches\transforms-3\878617b5876df857920908b0d6f82346\transformed\media-1.6.0\res
-com.santsevaaudiobook.app-jetified-drawee-2.6.0-20 C:\Users\sachi\.gradle\caches\transforms-3\8fac770e659683206d28c35b067abb41\transformed\jetified-drawee-2.6.0\res
-com.santsevaaudiobook.app-jetified-autofill-1.1.0-21 C:\Users\sachi\.gradle\caches\transforms-3\a6ec09d3f9a35c2cdb66c074ce2dc724\transformed\jetified-autofill-1.1.0\res
-com.santsevaaudiobook.app-jetified-emoji2-1.0.0-22 C:\Users\sachi\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\res
-com.santsevaaudiobook.app-jetified-lifecycle-process-2.4.0-23 C:\Users\sachi\.gradle\caches\transforms-3\bc74a39e1ea23fea00bfcf2682a93948\transformed\jetified-lifecycle-process-2.4.0\res
-com.santsevaaudiobook.app-transition-1.2.0-24 C:\Users\sachi\.gradle\caches\transforms-3\cab5912a28841561c11328a45e4e2bef\transformed\transition-1.2.0\res
-com.santsevaaudiobook.app-jetified-savedstate-1.1.0-25 C:\Users\sachi\.gradle\caches\transforms-3\ce9f1e414807aaf172c5918b0e15fa8f\transformed\jetified-savedstate-1.1.0\res
-com.santsevaaudiobook.app-jetified-annotation-experimental-1.3.0-26 C:\Users\sachi\.gradle\caches\transforms-3\d08d1b0c5ba4e8d44c9c82274694bd1f\transformed\jetified-annotation-experimental-1.3.0\res
-com.santsevaaudiobook.app-fragment-1.3.6-27 C:\Users\sachi\.gradle\caches\transforms-3\d7aa1f198091ea1cc50dc1c26600633f\transformed\fragment-1.3.6\res
-com.santsevaaudiobook.app-jetified-KotlinAudio-v1.2.4-28 C:\Users\sachi\.gradle\caches\transforms-3\da225d4af9f03639423a285214f137ef\transformed\jetified-KotlinAudio-v1.2.4\res
-com.santsevaaudiobook.app-material-1.1.0-29 C:\Users\sachi\.gradle\caches\transforms-3\ff7f9e1ea9c2e709fffb9e018f2252cf\transformed\material-1.1.0\res
-com.santsevaaudiobook.app-pngs-30 E:\React Native\SantSevaAudioBook\android\app\build\generated\res\pngs\debug
-com.santsevaaudiobook.app-react-31 E:\React Native\SantSevaAudioBook\android\app\build\generated\res\react\debug
-com.santsevaaudiobook.app-resValues-32 E:\React Native\SantSevaAudioBook\android\app\build\generated\res\resValues\debug
-com.santsevaaudiobook.app-rs-33 E:\React Native\SantSevaAudioBook\android\app\build\generated\res\rs\debug
-com.santsevaaudiobook.app-mergeDebugResources-34 E:\React Native\SantSevaAudioBook\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.santsevaaudiobook.app-mergeDebugResources-35 E:\React Native\SantSevaAudioBook\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.santsevaaudiobook.app-merged_res-36 E:\React Native\SantSevaAudioBook\android\app\build\intermediates\merged_res\debug
-com.santsevaaudiobook.app-debug-37 E:\React Native\SantSevaAudioBook\android\app\src\debug\res
-com.santsevaaudiobook.app-main-38 E:\React Native\SantSevaAudioBook\android\app\src\main\res
-com.santsevaaudiobook.app-packaged_res-39 E:\React Native\SantSevaAudioBook\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-40 E:\React Native\SantSevaAudioBook\node_modules\@react-native-community\slider\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-41 E:\React Native\SantSevaAudioBook\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-42 E:\React Native\SantSevaAudioBook\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-43 E:\React Native\SantSevaAudioBook\node_modules\react-native-linear-gradient\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-44 E:\React Native\SantSevaAudioBook\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-45 E:\React Native\SantSevaAudioBook\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-46 E:\React Native\SantSevaAudioBook\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-47 E:\React Native\SantSevaAudioBook\node_modules\react-native-track-player\android\build\intermediates\packaged_res\debug
-com.santsevaaudiobook.app-packaged_res-48 E:\React Native\SantSevaAudioBook\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-jetified-play-services-basement-17.6.0-0 C:\Users\sachi\.gradle\caches\transforms-3\03468a638f098ffe87531554bfca6ff7\transformed\jetified-play-services-basement-17.6.0\res
+com.santsevaaudiobook.app-jetified-flipper-0.125.0-1 C:\Users\sachi\.gradle\caches\transforms-3\03f04a3f11198ce3b7c6cedb9b41266b\transformed\jetified-flipper-0.125.0\res
+com.santsevaaudiobook.app-core-1.9.0-2 C:\Users\sachi\.gradle\caches\transforms-3\0442dcddf7c8962f91c947e4fa892631\transformed\core-1.9.0\res
+com.santsevaaudiobook.app-jetified-react-native-0.70.6-debug-3 C:\Users\sachi\.gradle\caches\transforms-3\0b825f9a3cd84cf1738e48fbfed11fea\transformed\jetified-react-native-0.70.6-debug\res
+com.santsevaaudiobook.app-lifecycle-viewmodel-2.3.1-4 C:\Users\sachi\.gradle\caches\transforms-3\0bbaa5972f900275fec64cf526ac0bea\transformed\lifecycle-viewmodel-2.3.1\res
+com.santsevaaudiobook.app-jetified-checkout-1.6.34-5 C:\Users\sachi\.gradle\caches\transforms-3\0d3ef63d6e86396a09390af97802c216\transformed\jetified-checkout-1.6.34\res
+com.santsevaaudiobook.app-jetified-coil-base-1.4.0-6 C:\Users\sachi\.gradle\caches\transforms-3\151dc78c2bbc9cfa3255423cfb3a6dc5\transformed\jetified-coil-base-1.4.0\res
+com.santsevaaudiobook.app-appcompat-1.4.1-7 C:\Users\sachi\.gradle\caches\transforms-3\1b40e4574e76bff5831ef4bf4270480d\transformed\appcompat-1.4.1\res
+com.santsevaaudiobook.app-jetified-viewpager2-1.0.0-8 C:\Users\sachi\.gradle\caches\transforms-3\237960ca1607edccd2d98c15f52b2dce\transformed\jetified-viewpager2-1.0.0\res
+com.santsevaaudiobook.app-jetified-appcompat-resources-1.4.1-9 C:\Users\sachi\.gradle\caches\transforms-3\25ca79b7ef1a689e48a9ba2099d7ac89\transformed\jetified-appcompat-resources-1.4.1\res
+com.santsevaaudiobook.app-recyclerview-1.2.1-10 C:\Users\sachi\.gradle\caches\transforms-3\3905dd67f24c3daa23308bd3bda88fc5\transformed\recyclerview-1.2.1\res
+com.santsevaaudiobook.app-cardview-1.0.0-11 C:\Users\sachi\.gradle\caches\transforms-3\3cb37a6faf29ddf73604c194d6dae8fd\transformed\cardview-1.0.0\res
+com.santsevaaudiobook.app-jetified-startup-runtime-1.0.0-12 C:\Users\sachi\.gradle\caches\transforms-3\3e0d478508575b75c79938eb5fb0fb04\transformed\jetified-startup-runtime-1.0.0\res
+com.santsevaaudiobook.app-jetified-extension-mediasession-2.18.1-13 C:\Users\sachi\.gradle\caches\transforms-3\3f0c4e68b1579e98b304fee1f3f6869e\transformed\jetified-extension-mediasession-2.18.1\res
+com.santsevaaudiobook.app-jetified-play-services-wallet-18.1.3-14 C:\Users\sachi\.gradle\caches\transforms-3\46133b98b5ff55b4d7f055d9e9c08227\transformed\jetified-play-services-wallet-18.1.3\res
+com.santsevaaudiobook.app-coordinatorlayout-1.1.0-15 C:\Users\sachi\.gradle\caches\transforms-3\499913aa779d5677f84de1b3821854aa\transformed\coordinatorlayout-1.1.0\res
+com.santsevaaudiobook.app-lifecycle-runtime-2.4.0-16 C:\Users\sachi\.gradle\caches\transforms-3\4e5f2ec05243774aa7a6d3ac597ca78a\transformed\lifecycle-runtime-2.4.0\res
+com.santsevaaudiobook.app-jetified-core-ktx-1.9.0-17 C:\Users\sachi\.gradle\caches\transforms-3\5012b0aebfa76edf44761e0e1d6795fe\transformed\jetified-core-ktx-1.9.0\res
+com.santsevaaudiobook.app-jetified-emoji2-views-helper-1.0.0-18 C:\Users\sachi\.gradle\caches\transforms-3\649b06ba711978c865b75aec65373f65\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.santsevaaudiobook.app-jetified-play-services-base-17.5.0-19 C:\Users\sachi\.gradle\caches\transforms-3\6b232164a3c43e15684b0da94070d182\transformed\jetified-play-services-base-17.5.0\res
+com.santsevaaudiobook.app-jetified-exoplayer-core-2.18.1-20 C:\Users\sachi\.gradle\caches\transforms-3\6e6040b0110196b50016d783ece7421c\transformed\jetified-exoplayer-core-2.18.1\res
+com.santsevaaudiobook.app-localbroadcastmanager-1.1.0-21 C:\Users\sachi\.gradle\caches\transforms-3\739ad2421ee12fe2644bb7649fd9cc90\transformed\localbroadcastmanager-1.1.0\res
+com.santsevaaudiobook.app-jetified-play-services-maps-17.0.0-22 C:\Users\sachi\.gradle\caches\transforms-3\7610e22b72ff83ba4615f47eef3a58fb\transformed\jetified-play-services-maps-17.0.0\res
+com.santsevaaudiobook.app-jetified-exoplayer-ui-2.18.1-23 C:\Users\sachi\.gradle\caches\transforms-3\76a81d27f00e989778175dd53293ca77\transformed\jetified-exoplayer-ui-2.18.1\res
+com.santsevaaudiobook.app-media-1.6.0-24 C:\Users\sachi\.gradle\caches\transforms-3\878617b5876df857920908b0d6f82346\transformed\media-1.6.0\res
+com.santsevaaudiobook.app-jetified-drawee-2.6.0-25 C:\Users\sachi\.gradle\caches\transforms-3\8fac770e659683206d28c35b067abb41\transformed\jetified-drawee-2.6.0\res
+com.santsevaaudiobook.app-jetified-play-services-auth-17.0.0-26 C:\Users\sachi\.gradle\caches\transforms-3\8fb435529e432a6771762efad78feaab\transformed\jetified-play-services-auth-17.0.0\res
+com.santsevaaudiobook.app-jetified-autofill-1.1.0-27 C:\Users\sachi\.gradle\caches\transforms-3\a6ec09d3f9a35c2cdb66c074ce2dc724\transformed\jetified-autofill-1.1.0\res
+com.santsevaaudiobook.app-jetified-emoji2-1.0.0-28 C:\Users\sachi\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\res
+com.santsevaaudiobook.app-jetified-lifecycle-process-2.4.0-29 C:\Users\sachi\.gradle\caches\transforms-3\bc74a39e1ea23fea00bfcf2682a93948\transformed\jetified-lifecycle-process-2.4.0\res
+com.santsevaaudiobook.app-transition-1.2.0-30 C:\Users\sachi\.gradle\caches\transforms-3\cab5912a28841561c11328a45e4e2bef\transformed\transition-1.2.0\res
+com.santsevaaudiobook.app-jetified-savedstate-1.1.0-31 C:\Users\sachi\.gradle\caches\transforms-3\ce9f1e414807aaf172c5918b0e15fa8f\transformed\jetified-savedstate-1.1.0\res
+com.santsevaaudiobook.app-jetified-annotation-experimental-1.3.0-32 C:\Users\sachi\.gradle\caches\transforms-3\d08d1b0c5ba4e8d44c9c82274694bd1f\transformed\jetified-annotation-experimental-1.3.0\res
+com.santsevaaudiobook.app-fragment-1.3.6-33 C:\Users\sachi\.gradle\caches\transforms-3\d7aa1f198091ea1cc50dc1c26600633f\transformed\fragment-1.3.6\res
+com.santsevaaudiobook.app-jetified-KotlinAudio-v1.2.4-34 C:\Users\sachi\.gradle\caches\transforms-3\da225d4af9f03639423a285214f137ef\transformed\jetified-KotlinAudio-v1.2.4\res
+com.santsevaaudiobook.app-material-1.1.0-35 C:\Users\sachi\.gradle\caches\transforms-3\ff7f9e1ea9c2e709fffb9e018f2252cf\transformed\material-1.1.0\res
+com.santsevaaudiobook.app-pngs-36 E:\React Native\SSAB_REACTNATIVE\android\app\build\generated\res\pngs\debug
+com.santsevaaudiobook.app-react-37 E:\React Native\SSAB_REACTNATIVE\android\app\build\generated\res\react\debug
+com.santsevaaudiobook.app-resValues-38 E:\React Native\SSAB_REACTNATIVE\android\app\build\generated\res\resValues\debug
+com.santsevaaudiobook.app-rs-39 E:\React Native\SSAB_REACTNATIVE\android\app\build\generated\res\rs\debug
+com.santsevaaudiobook.app-mergeDebugResources-40 E:\React Native\SSAB_REACTNATIVE\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.santsevaaudiobook.app-mergeDebugResources-41 E:\React Native\SSAB_REACTNATIVE\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.santsevaaudiobook.app-merged_res-42 E:\React Native\SSAB_REACTNATIVE\android\app\build\intermediates\merged_res\debug
+com.santsevaaudiobook.app-debug-43 E:\React Native\SSAB_REACTNATIVE\android\app\src\debug\res
+com.santsevaaudiobook.app-main-44 E:\React Native\SSAB_REACTNATIVE\android\app\src\main\res
+com.santsevaaudiobook.app-packaged_res-45 E:\React Native\SSAB_REACTNATIVE\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-46 E:\React Native\SSAB_REACTNATIVE\node_modules\@react-native-community\slider\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-47 E:\React Native\SSAB_REACTNATIVE\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-48 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-49 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-linear-gradient\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-50 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-razorpay\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-51 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-52 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-53 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-54 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-track-player\android\build\intermediates\packaged_res\debug
+com.santsevaaudiobook.app-packaged_res-55 E:\React Native\SSAB_REACTNATIVE\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
